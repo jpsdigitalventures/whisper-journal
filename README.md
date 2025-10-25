@@ -1,1 +1,1 @@
-# whisper-journal
+# Whisper Logs
